@@ -8,6 +8,18 @@ This repository aims to create some `.md` files so that Mariana and Cristina can
 
 💡 There's no right or wrong in pseudocode, it's all a matter of describing all the steps well and clearly.
 
+# Pseudocodes to write
+
+You don't need to write all at once. You can write one per day or another rythim that you choose.
+
+| Order | File |
+| -- | -- |
+| 1 | [walk.md](./Pseudocode/walk.md) |
+| 2 | [cook-a-cake.md](./Pseudocode/cook-a-cake.md) |
+| 3 | [commute-to-work.md](./Pseudocode/commute-to-work.md) |
+| 4 | [multiply-two-numbers.md](./Pseudocode/multiply-two-numbers.md) |
+| 5 | [verify-email.md](./Pseudocode/verify-email.md) |
+
 # Technologies
 
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
