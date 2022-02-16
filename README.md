@@ -19,6 +19,14 @@ You don't need to write all at once. You can write one per day or another rythim
 | 3 | [commute-to-work.md](./Pseudocode/commute-to-work.md) |
 | 4 | [multiply-two-numbers.md](./Pseudocode/multiply-two-numbers.md) |
 | 5 | [verify-email.md](./Pseudocode/verify-email.md) |
+| 6 | [read-and-multiply.md](./Pseudocode/read-multiply-print.md) |
+| 7 | [wrong-input.md](./Pseudocode/wrong-input.md) |
+| 8 | [print-colors.md](./Pseudocode/print-colors.md) |
+| 9 | [multiples.md](./Pseudocode/multiples.md) |
+| 10 | [count-even.md](./Pseudocode/count-even.md) |
+| 11 | [read-calculate-find-write.md](./Pseudocode/read-calculate-find-write.md) |
+| 12 | [sort.md](./Pseudocode/sort.md) |
+| 13 | [sum.md](./Pseudocode/sum.md) |
 
 # Technologies
 
