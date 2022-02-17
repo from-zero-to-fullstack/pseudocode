@@ -8,7 +8,7 @@ This repository aims to create some `.md` files so that Mariana and Cristina can
 
 💡 There's no right or wrong in pseudocode, it's all a matter of describing all the steps well and clearly.
 
-# Pseudocodes to write
+# Exercises
 
 You don't need to write all at once. You can write one per day or another rythim that you choose.
 
