@@ -8,6 +8,8 @@ This repository aims to create some `.md` files so that Mariana and Cristina can
 
 💡 There's no right or wrong in pseudocode, it's all a matter of describing all the steps well and clearly.
 
+Later, Mariana and Cristina will translate the same exercise to JavaScript.
+
 # Exercises
 
 You don't need to write all at once. You can write one per day or another rythim that you choose.
@@ -27,6 +29,21 @@ You don't need to write all at once. You can write one per day or another rythim
 | 11 | [read-calculate-find-write.md](./Pseudocode/read-calculate-find-write.md) |
 | 12 | [sort.md](./Pseudocode/sort.md) |
 | 13 | [sum.md](./Pseudocode/sum.md) |
+
+## Instructions
+
+> Apply to all exercises
+
+### Pseudocode
+
+1. Create a file with `.txt` extension inside each exercise - the file name must be the same as the `.md` file
+2. All the pseudocode must be in English
+3. The structure of the pseudocode is up to you
+
+### JavaScript
+
+1. Create a file with `.js` extension - the file name must be the same as the `.md` file
+2. Organise the code as you like
 
 # Technologies
 
