@@ -16,19 +16,19 @@ You don't need to write all at once. You can write one per day or another rythim
 
 | Order | File |
 | -- | -- |
-| 1 | [walk.md](./Pseudocode/walk.md) |
-| 2 | [cook-a-cake.md](./Pseudocode/cook-a-cake.md) |
-| 3 | [commute-to-work.md](./Pseudocode/commute-to-work.md) |
-| 4 | [multiply-two-numbers.md](./Pseudocode/multiply-two-numbers.md) |
-| 5 | [verify-email.md](./Pseudocode/verify-email.md) |
-| 6 | [read-and-multiply.md](./Pseudocode/read-multiply-print.md) |
-| 7 | [wrong-input.md](./Pseudocode/wrong-input.md) |
-| 8 | [print-colors.md](./Pseudocode/print-colors.md) |
-| 9 | [multiples.md](./Pseudocode/multiples.md) |
-| 10 | [count-even.md](./Pseudocode/count-even.md) |
-| 11 | [read-calculate-find-write.md](./Pseudocode/read-calculate-find-write.md) |
-| 12 | [sort.md](./Pseudocode/sort.md) |
-| 13 | [sum.md](./Pseudocode/sum.md) |
+| 1 | [walk.md](./src/Walk/walk.md) |
+| 2 | [cook-a-cake.md](./src/CookCake/cook-a-cake.md) |
+| 3 | [commute-to-work.md](./src/CommuteToWork/commute-to-work.md) |
+| 4 | [multiply-two-numbers.md](./src/MultiplyTwoNumbers/multiply-two-numbers.md) |
+| 5 | [verify-email.md](./src/VerifyEmail/verify-email.md) |
+| 6 | [read-and-multiply.md](./src/ReadMultiplyPrint/read-multiply-print.md) |
+| 7 | [wrong-input.md](./src/WrongInput/wrong-input.md) |
+| 8 | [print-colors.md](./src/PrintColors/print-colors.md) |
+| 9 | [multiples.md](./src/Multiples/multiples.md) |
+| 10 | [count-even.md](./src/CountEven/count-even.md) |
+| 11 | [read-calculate-find-write.md](./src/ReadCalculateFindWrite/read-calculate-find-write.md) |
+| 12 | [sort.md](./src/Sort/sort.md) |
+| 13 | [sum.md](./src/Sum/sum.md) |
 
 ## Instructions
 
