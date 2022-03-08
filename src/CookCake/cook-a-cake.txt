@@ -1,0 +1,12 @@
+inicio
+caracteres ovos, açucar, farinha, fermento, massa, massa_final, forno
+ler (ovos)
+ler (açucar)
+massa <- ovos + açucar
+escrever (massa)
+ler (farinha)
+ler (fermento)
+massa_final <- massa + farinha + fermento
+escrever (massa_final)
+Se (massa_final == 1)
+    escrever (forno)
