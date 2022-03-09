@@ -1,12 +1,21 @@
-inicio
-caracteres ovos, açucar, farinha, fermento, massa, massa_final, forno
-ler (ovos)
-ler (açucar)
-massa <- ovos + açucar
-escrever (massa)
-ler (farinha)
-ler (fermento)
-massa_final <- massa + farinha + fermento
-escrever (massa_final)
-Se (massa_final == 1)
-    escrever (forno)
+Ingredients list:
+butter, eggs, sugar, cacau powder, oil, warm water, flour, yeast
+pre-heat the oven at 200 degrees
+put some butter in all your cake pan and sprink some flour to cover all the walls
+set aside the prepared cake pan
+in one bowl, mix the eggs with the sugar
+add the cacau powder, the oil and the warm watter to the previous mix
+mix again
+add the flour and the yeast to the batter
+add the batter into the prepared cake pan
+insert the cake pan in the oven
+bake for 20 minutes
+check the cake
+    if the cake is cooked, take the cake out
+    else, wait 5 more minutes and go back to the previous step
+take the cake out of the oven
+let it cool down
+check the cake temperature
+    if the cake is room temperature, remove it from the cake pan
+    else, wait 20 more minutes and go back to the previous step
+
