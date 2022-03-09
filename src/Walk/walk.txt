@@ -1,0 +1,8 @@
+inicio
+inteiro pe_dir, pe_esq, andar
+ler (pe_dir)
+ler (pe_esq)
+andar <- pe_dir + pe_esq
+for (pe_dir = 1; pe_dir => pe_esq; andar++)
+escrever (andar)
+fim
