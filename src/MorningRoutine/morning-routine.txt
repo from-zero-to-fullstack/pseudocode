@@ -2,7 +2,9 @@ wake up around 7 am
 get up from bed
 walk to the bathroom
 to pee in the toilet:
-    - put the pijama pants down
+    - check the toilet lid:
+        - if its open, put the pijama pants down
+        - else, open the toilet lid and put the pijama pants down
     - to sit in the toilet
     - to pee
     - to clean your genital with toilet papper
@@ -10,11 +12,17 @@ to pee in the toilet:
     - dress the pijama pants
     - to flush the toilet
 walk to the washbasin
+wash the hands after peeing:
+    - to open the faucet
+    - to apply some hand soap in the fingers
+    - to rub both hands together for 5 seconds
+    - to wash the hands with running water to clean the soap
 do the morning skincare:
     - to put water in the face
     - to apply some facewasher cleansing gel in the fingers
     - to apply the gel in the face with both hands moving it in small circles for 2 minutes
     - to clean the face soap with running water with both hands
+    - to close the faucet
     - to dry the face with a toal
     - to apply the eye cream under and top of the eyes area, softly with the fingers
     - to apply the face cream in one hand palm, rub both hands to distributte the cream
@@ -49,9 +57,11 @@ go to the washbasin and brush the teeth:
     - get the tooth brusher
     - put some tooth paste on it
     - brush all the teeth one by one moving the brush in small circles
+    - open the faucet
     - swish with some water and spill it out
     - repeat the brushing process
     - swish with some water and spill it out
+    - close the faucet
     - clean the mouth area with the toal
 walk to the house door
 walk to the garage area
