@@ -63,18 +63,6 @@ go to the washbasin and brush the teeth:
     - swish with some water and spill it out
     - close the faucet
     - clean the mouth area with the toal
-walk to the house door
-walk to the garage area
-see the car and go to the door
-open the car's door
-get into the driver's seat
-drive to work
-park in the work's parking lot
-get out of the car
-close the car's door
-walk to the work's door and get inside
-go work, lazy girl
-
-
+walk to the house door to leave for work
 
 
